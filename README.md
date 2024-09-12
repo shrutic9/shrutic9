@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Engineering and Development.
 - 🌱 I’m currently a Masters Student
 - 💞️ Sometimes I code, mostly I sleep
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: ... still thinking about one.
 
 <!---
