@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrutic9
+- 👋 Hi, I’m Shruti 
 - 👀 I’m interested in Software Engineering and Development.
 - 🌱 I’m currently a Masters Student
 - 💞️ Sometimes I code, mostly I sleep
