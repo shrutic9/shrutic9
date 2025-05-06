@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Shruti 
-- 👀 I’m interested in Software Engineering and Development.
-- 🌱 I’m currently a Masters Student
+- 👋 Hi, I’m Shruti, a Software Engineer and Developer.
+- 🌱 Currently a Masters Student
 - 💞️ Sometimes I code, mostly I sleep
 - ⚡ Fun fact: ... still thinking about one.
 
